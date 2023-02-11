@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p> Lorms</p>
       </header>
     </div>
   );
